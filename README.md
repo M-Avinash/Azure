@@ -1,4 +1,3 @@
-### simplesample_http
 I have used the ESP-8266 and DHT22 sensor to upload data onto the Azure cloud platform.
 
 Once the connections have been made on the breadboard, using the sample code is pretty straight forward. Use the link given below to get the full picture
